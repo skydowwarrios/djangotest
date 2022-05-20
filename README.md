@@ -1,5 +1,6 @@
 "# testspace" 
-"pip install django" 
+
+pip install django
 
 "git clone https://github.com/skydowwarrios/test0506.git"
 
