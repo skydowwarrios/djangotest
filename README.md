@@ -8,13 +8,23 @@ git clone https://github.com/skydowwarrios/test0506.git  將檔案下載至電�
 
 python manage.py runserver 執行網頁
 
+----------------------------------------------------------------
+
+git pull
+
+刪除所有pycache檔
+
+git status
+
+git add .
+
 git config --global user.email "skydowwarrios@gmail.com"
 
 git config --global user.name "skydowwarrios"
 
-----------------------------------------------------------------
+git commit -m " "
 
-git add --all
+
 
 git push origin master
 
