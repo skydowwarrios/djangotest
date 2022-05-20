@@ -20,4 +20,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', hello),
     path('hello2/<str:username>', hello2),
+    path('hello4/<str:username>', hello4),
+    
 ]
