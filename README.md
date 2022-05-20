@@ -1,5 +1,5 @@
 "# testspace" 
-"pip install django"
+"pip install django" \n
 "git config --global user.email "skydowwarrios@gmail.com""
 "git config --global user.name "skydowwarrios""
 "git clone https://github.com/skydowwarrios/test0506.git"
