@@ -21,5 +21,10 @@ urlpatterns = [
     path('', hello),
     path('hello2/<str:username>', hello2),
     path('hello4/<str:username>', hello4),
-    
+    path('testdict/',testdict),
+    path('dice/',dice),   
+    path('dice2/',dice2),
+    path('dice3/',dice3),
+    path('show/',show),
+    path('filter/',filter),
 ]
