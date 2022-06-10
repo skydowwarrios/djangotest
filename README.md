@@ -27,6 +27,5 @@ git commit -m " "
 git push origin master
 
 ----------------------------------------------------------------
-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
 
 http://books.gotop.com.tw/download/ACL063300
